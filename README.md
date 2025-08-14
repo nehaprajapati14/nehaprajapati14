@@ -14,10 +14,9 @@ With a strong foundation in **C++**, **React.js**, and **SQL**, I enjoy solving 
   <a href="https://leetcode.com/u/neha_praj/" target="_blank">
   <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Animation" height="200" width="200" />
 </a>
-<a href="https://leetcode.com/u/neha_praj/" target="_blank">
-  <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.png" alt="LeetCode 100 Coin Badge" height="200" width="200" />
+  <a href="https://leetcode.com/u/neha_praj/" target="_blank">
+  <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Animation" height="200" width="200" />
 </a>
-
 </p>
 
 <p align="center">
