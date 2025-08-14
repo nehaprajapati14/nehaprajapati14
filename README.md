@@ -27,7 +27,7 @@ With a strong foundation in **C++**, **React.js**, and **SQL**, I enjoy solving 
 ---
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nehaprajapati@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nehaprajapati8545@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehaprajapati14)  
 
 ---
